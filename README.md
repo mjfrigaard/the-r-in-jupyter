@@ -86,6 +86,8 @@ The Jupyter notebooks combine code cells with markdown (just like RStudio Notebo
 
 As you can see, this cell has markdown syntax highlighting. If I want to see how the cell will look after running it, hold down **control + return** (this is how to run a cell in Jupyter notebooks).
 
+![](3.1-title-markdown-jupyter.png)
+
 ## 7) Run some R code
 
 Enter the following code in the next cell and run it (either by using **control + return** or clicking **Run**)
